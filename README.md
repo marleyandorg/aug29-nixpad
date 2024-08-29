@@ -1,3 +1,4 @@
+(uppdate today)
 # Autograding Example: Java
 This example project is written in Java, and tested with Gradle/JUnit.
 
